@@ -17,6 +17,6 @@ Ricardo Ferrari e Marcela Ribeiro.
 Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
 
 Feito por:
-- Bruno Lindo Leandro Pereira
+- Bruno Leandro Pereira
 - Daniel Kenichi Tiago Tateishi
 - João Dini de Miranda
