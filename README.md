@@ -14,7 +14,7 @@
 
 ---
 
-Criado durante a disciplina de AED da UFSCar sobre supervisão dos professores
+Criado durante a disciplina de AED da UFSCar sob supervisão dos professores
 Ricardo Ferrari e Marcela Ribeiro.
 
 Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
