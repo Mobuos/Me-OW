@@ -8,6 +8,9 @@
  `W`/`A`/`S`/`D` ou `↑`/`←`/`↓`/`→` para controlar o personagem
  
  `Esc` para pausar
+ 
+ ## Como baixar
+ Na direita, aperte `Releases` e baixe o `.zip` do seu sistema operacional mais recente.
 
 ---
 
