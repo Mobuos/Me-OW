@@ -17,9 +17,11 @@
 Criado durante a disciplina de AED da UFSCar sob supervisão dos professores
 Ricardo Ferrari e Marcela Ribeiro.
 
-Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
-
 Feito por:
 - Bruno Leandro Pereira
 - Daniel Kenichi Tiago Tateishi
 - João Dini de Miranda
+
+Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
+
+Efeitos Sonoros: https://sfxr.me/
