@@ -27,3 +27,5 @@ Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/) com [c
 Efeitos Sonoros: [jsfrx](https://sfxr.me/)
 
 Música: [Epidemic Sound](https://www.epidemicsound.com/track/txIXjVMyUK/)
+
+Link para repositório com a Solução do Visual studio (Estados iniciais do projeto): https://github.com/LuckyLucario/ProjetoDLT
