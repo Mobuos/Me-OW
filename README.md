@@ -20,7 +20,7 @@ Ricardo Ferrari e Marcela Ribeiro.
 Feito por:
 - Bruno Leandro Pereira
 - Daniel Kenichi Tiago Tateishi
-- João Dini de Miranda
+- João Dini de Miranda (Hi-Score: 28430)
 
 Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
 
