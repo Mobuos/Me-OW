@@ -18,7 +18,7 @@ Criado durante a disciplina de AED da UFSCar sob supervisão dos professores
 Ricardo Ferrari e Marcela Ribeiro.
 
 Feito por:
-- Bruno Leandro Pereira
+- Bruno Leandro Pereira (Hi-Score: 9110)
 - Daniel Kenichi Tiago Tateishi
 - João Dini de Miranda (Hi-Score: 28430)
 
