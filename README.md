@@ -19,7 +19,7 @@ Ricardo Ferrari e Marcela Ribeiro.
 
 Feito por:
 - Bruno Leandro Pereira (Hi-Score: 9110)
-- Daniel Kenichi Tiago Tateishi
+- Daniel Kenichi Tiago Tateishi (Hi-Score: 45290)
 - João Dini de Miranda (Hi-Score: 28430)
 
 Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
