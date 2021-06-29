@@ -22,7 +22,7 @@ Feito por:
 - Daniel Kenichi Tiago Tateishi (Hi-Score: 45290)
 - João Dini de Miranda (Hi-Score: 28430)
 
-Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/)
+Utilizando a livraria de código aberto [SFML](https://www.sfml-dev.org/) com [código adicional de colisão](https://github.com/SFML/SFML/wiki/Source:-Simple-Collision-Detection-for-SFML-2) permitindo uma colisão mais precisa com o `BoundingBoxTest()` modificado para aceitar rotações.
 
 Efeitos Sonoros: [jsfrx](https://sfxr.me/)
 
