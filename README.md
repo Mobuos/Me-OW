@@ -14,7 +14,7 @@
 
 ---
 
-Criado durante a disciplina de AED da UFSCar sob supervisão dos professores
+Projeto com início de criação durante a disciplina de AED da UFSCar (maio 2020) sob supervisão dos professores
 Ricardo Ferrari e Marcela Ribeiro.
 
 Feito por:
