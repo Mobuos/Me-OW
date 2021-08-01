@@ -1,3 +1,6 @@
 
 *.log
 .vscode/settings.json
+.o
+Makefile
+Final/main-linux

@@ -1,6 +1,6 @@
 #include "Game.h"
 #include <stdio.h>
-#include <String>
+#include <string>
 #include <math.h>
 
 // --> Construtor e Inicializadores <--
