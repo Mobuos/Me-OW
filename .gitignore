@@ -1,3 +1,6 @@
 
 *.log
 .vscode
+.o
+Makefile
+Final/main-linux
