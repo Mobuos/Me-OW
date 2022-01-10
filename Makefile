@@ -20,8 +20,7 @@ wrun:
 	Final/main-windows.exe
 
 lmove:
-	mv main Final
-	\cp resources
+	mv main-linux Final
 	find . -name "*.o" -type f -delete
 
 lrun:
