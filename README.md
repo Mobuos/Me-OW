@@ -11,6 +11,8 @@
  
  ## Como baixar
  Na direita, aperte `Releases` e baixe o `.zip` do seu sistema operacional mais recente.
+ 
+![screenshot](https://github.com/Mobuos/Me-OW/assets/12601762/1538daeb-3ad1-43da-8c35-506f13cc6b13)
 
 ---
 
